@@ -16,6 +16,8 @@ Therfore, in this project, we will focus on writing modular code that can easily
 
 The program will be split into three modules and the main program with each module being encapsulated within a file. Each module must implement its functionalities in a function that may or may not return a value. This allows for easy usage of the code in different parts of the progam. 
 
+On the other hand, the main program is responsible for calling the functions that are implemented within the modules to form a program that allows users to play rock paper scissors in the terminal/command prompt 
+
 ### Module Layout
 
 ### Module Architecture
