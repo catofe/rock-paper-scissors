@@ -20,13 +20,16 @@ On the other hand, the main program is responsible for calling the functions tha
 
 ### Module Layout
 
-The three modules will have the following functionalities: input/output, game logic, players
+The three modules will have the following functionalities: **input/output**, **game logic**, **players**.
 
-The **input/output module** is responsible for implementing the functionalities for printing text on the terminal/command prompt and receiving user input via teh command prompt
+**Input/Output Module:** This module is responsible for implementing the functionalities for printing text on the terminal/command prompt and receiving user input via teh command prompt
 
-The **game logic module** is responsible for implementing the functionalities for deciding the outcome ofa round of rock paper scissors; *TLDR; who wins the round*
+**Game Logic Module:** This module is responsible for implementing the functionalities for deciding the outcome ofa round of rock paper scissors; *TLDR; who wins the round*
 
-The *players module* is responsible for implementing the functionalities for keeping track off scores, the winner and losers of the game, and other behaviors and attributes.
+**Players Module:** This module is responsible for implementing the functionalities for keeping track off scores, the winner and losers of the game, and other behaviors and attributes.
+
+Module Implementation:
+![Alt text](assets/module_layout.png)
 
 ### Module Architecture
 
