@@ -28,10 +28,20 @@ The three modules will have the following functionalities: **input/output**, **g
 
 **Players Module:** This module is responsible for implementing the functionalities for keeping track off scores, the winner and losers of the game, and other behaviors and attributes.
 
-Module Implementation:
+
+**Module Implementation:**
 ![Alt text](assets/module_layout.png)
 
+
 ### Module Architecture
+
+### Input output
+![Alt text](assets/io_architecture.png)
+
+### Game Logic
+![Alt text](assets/game_logic_architecture.png)
+
+### Player
 
 ## Instructions
 
